@@ -1,2 +1,2 @@
 # React-expense-tracker
-A simple expense tracker web app developed with React.js.
+Code-along with "React - The Complete Guide" course (https://acad.link/reactjs).
